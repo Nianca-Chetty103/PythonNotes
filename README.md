@@ -1,3 +1,3 @@
-# PythonNotes
+# PythonNotes Fundamentals
 
 Just my fundamental python notes...
